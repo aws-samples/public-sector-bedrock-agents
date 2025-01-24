@@ -83,7 +83,7 @@ The following is a summary of the Amazon Bedrock Agents included in this solutio
 ### DateTimeAgent
 - **Description:** Provides various date, time, and calendar-related utility functions.
 - **Example Use Cases:** Government Project Management, Education Scheduling, Healthcare Appointment Tracking, Legal Compliance, Infrastructure Maintenance Planning.
-- **Note:** Be sure to sync the Bedrock KnowledgeBase.
+- **Note:** Be sure to sync the Bedrock KnowledgeBase. (``` ./scripts/start_ingestion_jobs.sh DateTimeAgent ```)
 - **Example User Prompts:**
   - Calculate the number of business days between 2026-05-01 and 2026-05-15.
   - Is Any Company's Investment Policy still valid as of today?
