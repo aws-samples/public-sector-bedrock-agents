@@ -1,0 +1,53 @@
+Any Company
+Investment Policy
+
+Effective Date: 01/01/2020
+Expiration Date: 01/01/2022
+
+1. Purpose
+The purpose of this Investment Policy is to establish guidelines for the prudent investment of Any Company's surplus funds and to ensure the safety, liquidity, and optimal return on investments.
+
+2. Scope
+This policy applies to all investment activities undertaken by Any Company and its subsidiaries.
+
+3. Investment Objectives
+The primary objectives of Any Company's investment activities, in order of priority, are:
+
+3.1. Safety: Preservation of capital and minimization of risk.
+3.2. Liquidity: Maintaining sufficient liquidity to meet operational and financial obligations.
+3.3. Return: Achieving a reasonable rate of return within the constraints of safety and liquidity.
+
+4. Authorized Investments
+Any Company may invest in the following types of instruments:
+
+4.1. U.S. Treasury securities
+4.2. U.S. government agency securities
+4.3. Certificates of deposit (CDs) from FDIC-insured banks
+4.4. Commercial paper rated A-1/P-1 or higher
+4.5. Money market funds with a minimum rating of AAA
+
+5. Investment Restrictions
+Any Company shall not invest in the following:
+
+5.1. Derivative instruments
+5.2. Speculative or high-risk investments
+5.3. Investments with maturities exceeding five years
+
+6. Diversification
+To mitigate risk, Any Company's investment portfolio shall be diversified across various types of investments and maturities.
+
+7. Reporting and Oversight
+The Chief Financial Officer (CFO) shall provide quarterly reports to the Board of Directors on the status of the investment portfolio, including performance, compliance, and any changes in risk exposure.
+
+8. Policy Review and Amendments
+This Investment Policy shall be reviewed and updated as necessary, but no less than annually, to ensure its continued relevance and alignment with Any Company's objectives and risk tolerance.
+
+9. Effective Date and Expiration
+This Investment Policy shall be effective from 01/01/2020 and shall expire on 01/01/2022, at which time it must be reviewed and updated or renewed.
+
+Approved by:
+
+[Signature]
+John Doe
+Chief Executive Officer
+Any Company
