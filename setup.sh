@@ -9,7 +9,7 @@ if docker info > /dev/null 2>&1; then
     echo "Docker service is running."
 else
     echo "Docker service is not running. Please start the Docker service and try again."
-    exit 1
+    return 1
 fi
 
 # 2. Create a virtual environment

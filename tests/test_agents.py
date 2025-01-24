@@ -18,8 +18,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-bedrock_agent = boto3.client('bedrock-agent')
-bedrock_agent_runtime = boto3.client('bedrock-agent-runtime')
+bedrock_agent = boto3.client('bedrock-agent', region_name='us-east-1')
+bedrock_agent_runtime = boto3.client('bedrock-agent-runtime', region_name='us-east-1')
 
 session_id = str(uuid.uuid4())
 
