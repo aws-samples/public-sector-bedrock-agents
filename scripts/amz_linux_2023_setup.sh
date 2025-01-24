@@ -14,6 +14,9 @@ sudo dnf -y install docker
 echo "Adding ec2-user to the docker group..."
 sudo usermod -a -G docker ec2-user
 
+# Update the current shell session's group membership to include the docker group
+newgrp docker
+
 # Start and enable the docker service
 echo "Enabling and starting Docker service..."
 sudo systemctl enable docker.service
