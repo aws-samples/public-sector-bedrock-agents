@@ -181,6 +181,7 @@ class SSLCertificateUtils:
         """
         try:
             context = ssl.create_default_context()
+            context.minimum_version = ssl.TLSVersion.TLSv1_2
             with socket.create_connection((hostname, port), timeout=20) as sock:
                 with context.wrap_socket(sock, server_hostname=hostname) as conn:
                     ssl_info = conn.getpeercert()
